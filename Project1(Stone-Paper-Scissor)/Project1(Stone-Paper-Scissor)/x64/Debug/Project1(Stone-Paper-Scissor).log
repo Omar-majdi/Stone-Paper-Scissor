@@ -1,0 +1,3 @@
+﻿  Project1(Stone-Paper-Scissor).cpp
+M:\Visual Studio Projects\Course 5 Problem Solving\Project1(Stone-Paper-Scissor)\Project1(Stone-Paper-Scissor)\Project1(Stone-Paper-Scissor).cpp(122,1): warning C4715: 'ChoiceExchange': not all control paths return a value
+  Project1(Stone-Paper-Scissor).vcxproj -> M:\Visual Studio Projects\Course 5 Problem Solving\Project1(Stone-Paper-Scissor)\x64\Debug\Project1(Stone-Paper-Scissor).exe
